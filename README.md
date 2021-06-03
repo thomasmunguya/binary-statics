@@ -1,5 +1,6 @@
 # Binary Statistics
 A simple console application to perform binary statistics
+
 Given a series of numbers as input, this application creates a running tally for each bit in the given numbers (in decimal), where +1 for one and -1 for zero.
 
 Example 1:
